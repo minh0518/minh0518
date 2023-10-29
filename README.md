@@ -1,16 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=👋👋👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=150)
 
 
 <br />
 
 ## 💁‍♂️About Me
 <b>
-안녕하세요. Front-end 개발자를 목표로 하고 있는 조민호라고 합니다. 
-<br />현대 사회에서 웹 기술이 일상의 많은 문제점과 요구사항을 해결해나가는 힘을 가지고 있음을 인식하고 있습니다.
-<br />이를 기반으로 저만의 웹 기술로서 일상생활에 필요한 부분들을 풀어내는 것에 흥미를 가지고 있습니다.
+안녕하세요. Front-end 개발자를 목표로 하고있는 조민호라고 합니다. 
+<br />현대 사회에서 웹 기술이 일상의 많은 문제점과 요구사항을 해결해나가는 힘을 가지고 있다고 생각합니다.
+<br />그러므로 저만의 웹 기술로서 일상생활에 필요한 부분들을 풀어내는 것에 흥미를 가지고 있습니다.
 </b>
 
-<br />
 <br />
 <br />
 
@@ -30,8 +29,6 @@
 </a>
 
 
-
-<br />
 <br />
 <br />
 
@@ -58,7 +55,6 @@
 
 <br />
 <br />
-<br />
 
 ## 📖 Education
 ✔ 서경대학교 소프트웨어학과 (2016.03 ~ 2023.02) <br />
@@ -66,14 +62,9 @@
 ✔ 2023 오픈소스 컨트리뷰션 멘티 (2023.7 ~ 2023.9) <br />
 ✔ 원티드 프리온보딩 (2023.9 ~ 🏃) <br />
 
-
-
-<br />
 <br />
 <br />
  
 
 ## ETC
-![minh0518's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=minh0518)
-![minh0518's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minh0518&theme=github_dark)
-[![minh0518's GitHub stats](https://github-readme-stats.vercel.app/api?username=minh0518&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/minh0518/github-readme-stats)
+![](http://mazassumnida.wtf/api/generate_badge?boj=minh0518)
