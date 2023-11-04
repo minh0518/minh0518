@@ -67,4 +67,5 @@
  
 
 ## ETC
-![BOJ](http://mazassumnida.wtf/api/generate_badge?boj=minh0518)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minh0518)](https://solved.ac/minh0518)
