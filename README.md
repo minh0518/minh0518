@@ -24,8 +24,7 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@minh0518"/>
 </a>
 
-
-<a href="https://drive.google.com/file/d/1KHX49mPPN1FrePeNn5yGBGPxrbwQTC4Z/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/18-j2Z-c7lkY7ySF1OezyegHbO_mMaGWK/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/resume-018EF5?style=flat-square&logo=readme&logoColor=white"/>
 </a>
 
