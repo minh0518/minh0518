@@ -6,8 +6,7 @@
 ## 💁‍♂️About Me
 <b>
 안녕하세요. Front-end 개발자를 목표로 하고있는 조민호라고 합니다. 
-<br />현대 사회에서 웹은 일상의 많은 문제점과 요구사항을 해결해나가는 힘을 가지고 있다고 생각합니다.
-<br />이를 기반으로 저만의 웹 기술로서 일상생활에 필요한 부분들을 풀어내는 것에 흥미를 가지고 있습니다.
+<br /> '사람으로서' 느끼는 일상적인 문제의 근원을 파악한 뒤, 이를 저만의 웹 기술로서 풀어가는 도전을 지향합니다.
 </b>
 
 <br />
@@ -24,7 +23,7 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@minh0518"/>
 </a>
 
-<a href="https://drive.google.com/file/d/18-j2Z-c7lkY7ySF1OezyegHbO_mMaGWK/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1ZTJv0p5MRZbOyvurg1d6kO3QKfvOYj2c/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/resume-018EF5?style=flat-square&logo=readme&logoColor=white"/>
 </a>
 
