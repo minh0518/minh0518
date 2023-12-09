@@ -23,10 +23,11 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@minh0518"/>
 </a>
 
+<!--
 <a href="https://drive.google.com/file/d/1ZTJv0p5MRZbOyvurg1d6kO3QKfvOYj2c/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/resume-018EF5?style=flat-square&logo=readme&logoColor=white"/>
 </a>
-
+-->
 
 <br />
 <br />
