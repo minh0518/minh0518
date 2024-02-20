@@ -13,8 +13,8 @@
 <p>
   <img src ="https://img.shields.io/badge/TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src ="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=React&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/reactquery-FF4154?&style=flat-square&logo=reactquery&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Next.js-000000?&style=flat-square&logo=Next.js&logoColor=white"/>      
+  <img src ="https://img.shields.io/badge/reactquery-FF4154?&style=flat-square&logo=reactquery&logoColor=white"/>
 </p>
 
 <hr />
@@ -39,7 +39,8 @@
 ✔ 서경대학교 소프트웨어학과 (2016.03 ~ 2023.02) <br />
 ✔ TAVE 7th (2021.02 ~ 2022.02) <br />
 ✔ 2023 오픈소스 컨트리뷰션 멘티 (2023.07 ~ 2023.09) <br />
-✔ 원티드 프리온보딩 (2023.09 ~ 🏃) <br />
+✔ 원티드 프리온보딩 (2023.09 ~ 2023.12) <br />
+✔ IT 연합동아리 DDD 10기 (2023.12 ~ 2024.03) <br />
 
 <!--
 <a href="https://drive.google.com/file/d/1ZTJv0p5MRZbOyvurg1d6kO3QKfvOYj2c/view?usp=sharing" target="_blank">
