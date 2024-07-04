@@ -28,11 +28,11 @@
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
 </a>
 
-<!--
+
 <a href="https://velog.io/@minh0518">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@minh0518"/>
 </a>
--->
+
 
 <br />
 <br />
