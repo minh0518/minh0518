@@ -33,7 +33,7 @@
 
 <br />
 
-## Education
+## What I've done
 
 <br />
 
@@ -47,8 +47,18 @@
    > Git 및 JS/TS
      
 **서경대학교 소프트웨어학과 (2016.03 ~ 2023.02)** <br />
-  > COSMOS Lab 인턴 - 아동 발화 음성의 파형을 분석하는 웹 서비스 제작 (2022.01 ~ 2022.06) 
+  > COSMOS Lab 인턴 - 아동 발화 음성의 파형을 분석하는 웹 서비스 제작 
 
+
+<br />
+
+## Projects
+
+| 프로젝트명     | 설명                                         | 기술 스택 | 링크 |
+|----------------|----------------------------------------------|-----------|-------|
+| Presen🎙️ | 발표 대본을 실시간으로 녹음하며 AI 기반 피드백을 받는 서비스 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>          | <a href="https://github.com/DDD-Community/DDD-10-KKEUNKKEUN-WEB">GitHub</a> |
+| TOJ(Type-challenge Online Judge) 🎓       | 깃허브 타입 챌린지 실시간 온라인 채점 서비스 |  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>  <img src="https://img.shields.io/badge/🐻 Zustand-000000?style=flat&logo=Zustand&logoColor=white"/>      |  <a href="https://github.com/minh0518/minh0518/edit/main/README.md">GitHub</a>  |
+| FIFA Pulse ⚽       | FC온라인 매치 분석 및 세부 통계 시각화 서비스                   |   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>        | <a href="https://github.com/minh0518/FIFAPulse">GitHub</a>  |
 
 
 <br />
@@ -59,10 +69,12 @@
 - [JS로 우선순위 큐까지 구현하기 귀찮다면? - .sort() 메모리 최적화](https://velog.io/@minh0518/JS%EB%A1%9C-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90%EA%B9%8C%EC%A7%80-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-%EA%B7%80%EC%B0%AE%EB%8B%A4)
 - [면접관 앞에서 클로저 (closure)의 동작원리를 말해보자](https://velog.io/@minh0518/%EB%A9%B4%EC%A0%91%EA%B4%80-%EC%95%9E%EC%97%90%EC%84%9C-%ED%81%B4%EB%A1%9C%EC%A0%80-closure%EC%9D%98-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC%EB%A5%BC-%EB%A7%90%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [면접관 앞에서 호이스팅과 동작 원리에 대해 말해보자](https://velog.io/@minh0518/%EB%A9%B4%EC%A0%91%EA%B4%80-%EC%95%9E%EC%97%90%EC%84%9C-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EA%B3%BC-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%B4-%EB%A7%90%ED%95%B4%EB%B3%B4%EC%9E%90)
-- [[DDD-Presen] 프론트 서버 커스텀 도메인 적용하기 (with route53)](https://velog.io/@minh0518/DDD-Presen-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC-with-route53)
+- [[DDD-Presen] 프론트 배포 서버 커스텀 도메인 적용하기 (with route53)](https://velog.io/@minh0518/DDD-Presen-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC-with-route53)
 
 <br />
 <br />
+
+## Etc
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minh0518)](https://solved.ac/minh0518)
 
