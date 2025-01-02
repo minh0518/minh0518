@@ -1,6 +1,6 @@
 <br />
 
-## ABOUT ME
+## About Me
 
 
 <br />
@@ -76,7 +76,7 @@
 <br />
 <br />
 
-## Etc
+## etc
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minh0518)](https://solved.ac/minh0518)
 
