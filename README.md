@@ -33,7 +33,7 @@
 
 <br />
 
-## What I've done
+## What I've Done
 
 <br />
 
@@ -63,8 +63,8 @@
 
 | 프로젝트명     | 설명                                         | 기술 스택 | 링크 |
 |----------------|----------------------------------------------|-----------|-------|
-| Presen🎙️ | 발표 대본을 실시간으로 녹음하며 AI 기반 피드백을 받는 서비스 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>          | <a href="https://github.com/DDD-Community/DDD-10-KKEUNKKEUN-WEB">GitHub</a> |
-| TOJ(Type-challenge Online Judge) 🎓       | 깃허브 타입 챌린지 실시간 온라인 채점 서비스 |  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>  <img src="https://img.shields.io/badge/🐻 Zustand-000000?style=flat&logo=Zustand&logoColor=white"/>      |  <a href="https://github.com/minh0518/minh0518/edit/main/README.md">GitHub</a>  |
+| Presen🎙️ | 발표 대본을 실시간으로 녹음하며 AI 기반 피드백을 받는 서비스 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> | <a href="https://github.com/DDD-Community/DDD-10-KKEUNKKEUN-WEB">GitHub</a> |
+| TOJ(Type-challenge Online Judge) 🎓       | 깃허브 타입 챌린지 실시간 온라인 채점 서비스 |  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  |  <a href="https://github.com/minh0518/minh0518/edit/main/README.md">GitHub</a>  |
 | FIFA Pulse ⚽       | FC온라인 매치 분석 및 세부 통계 시각화 서비스                   |   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>        | <a href="https://github.com/minh0518/FIFAPulse">GitHub</a>  |
 
 
