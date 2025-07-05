@@ -3,7 +3,10 @@
 
 <br >
 
-> I strive to look beyond surface-level skills—seeking the technical roots and business context beneath. <br /> Like tracing back to the **root node of a tree**, I trace the essence of every decision and grow through a network of organically connected knowledge.
+
+> "Never confined to surface-level skills, I pursue the **root node of knowledge tree**—the underlying fundamentals behind every decision. <br /> Along this journey, insights are organically connected and internalized, letting understanding branch and grow like the nodes of the tree"
+
+
 
 <br >
  
@@ -19,7 +22,7 @@
 
 ## Career
 
-- [당근](https://about.daangn.com/) Frontend Intern - Local Business(C2C) (25.6 ~ 25.9)
+- [당근](https://about.daangn.com/) Frontend Intern - Local Business(C2C) (25.06 ~ 25.09)
 
 <br />
 
