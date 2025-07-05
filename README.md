@@ -1,79 +1,45 @@
-<br />
-
-
-
-
-<br />
-안녕하세요. 조민호입니다.
-
-
-<br /> 비즈니스적 관점에서 개발자가 극복해야 하는 기술적 요소들이 본질적인 문제 해결과 맞닿아 있다고 생각합니다.
-
-그렇기에 소비자에겐 복잡한 서비스를 쉽게 쓸 수 있도록, 팀원에게는 어려운 기능을 쉽게 사용하도록 저만의 추상화에 도전하고 있습니다.
-<br />
-<br />
-
-<p align="center">
-  <a href="mailto:sunrise9612@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>  &nbsp; 
+<a href="mailto:sunrise9612@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>  &nbsp; 
  <a href="https://velog.io/@minh0518/series/deepdive" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /></a>
-</p>
+
+<br >
+
+> I strive to look beyond surface-level skills—seeking the technical roots and business context beneath. <br /> Like tracing back to the **root node of a tree**, I trace the essence of every decision and grow through a network of organically connected knowledge.
+
+<br >
+ 
+## Brief
+
+- I'm *Min Ho*
+- Working as a **Front-end Engineer** with **React, Typescript**
+- *Seokyeong University* - *Software Department* 💻
+ 
 
 <br />
 
-## Main Stack
-<br />
 
+## Career
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="55"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="55"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="55"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="55"/> &nbsp;
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" width="55"/> &nbsp;
-</p>
+- [당근](https://about.daangn.com/) Frontend Intern - Local Business(C2C) (25.6 ~ 25.9)
 
 <br />
 
 ## What I've Done
 
-<br />
-
-- **서경대학교 졸업** (2016.03 ~ 2023.02) <br />
-  -  **소프트웨어학 전공**
-
-- **TAVE 7기** (2021.02~2022.01) <br />
-  -  4차 산업혁명 IT 연합 동아리
-
-- **학부 COSMOS Lab 인턴** (2022.01 ~ 2022.07) <br />
-  - 음성 파형 분석 서비스 제작
-     
-- **2023 오픈소스 컨트리뷰션 멘티 체험형** (2023.07 ~ 2023.09) <br />
-  - Git 및 JS/TS
-
-- **DDD 10기** (2023.12 ~ 2024.03) <br />
-  - 직장인 개발자와 디자이너가 함께 성장하는 IT동아리
-
-- **디프만 16기** (2025.01 ~ 2025.04) <br />
-  - 디자이너와 개발자가 서비스 기획부터 런칭까지 함께 경험하는 성장추구형 IT동아리
+- **Seokyeong University, Software Engineering** (2016.03 ~ 2023.02) <br />
+  - COSMOS Lab Intern -  Developed a voice waveform analysis service (2022.01 ~ 2022.07) <br />
   
+- **TAVE 7th** - IT Project Club Member (2021.02~2022.01) <br />
+     
+- **2023 Open Source Contribution Mentee** (2023.07 ~ 2023.09) <br />
 
+- **DDD 10th** - Web Frontend Developer (2023.12 ~ 2024.03) <br />
 
-<br />
-
-## Projects
-
-| 프로젝트명     | 설명                                         | 기술 스택 | 링크 |
-|----------------|----------------------------------------------|-----------|-------|
-| [CRITIX 🎨](https://critix.kr/) | 디자이너들을 위한 AI 포트폴리오 피드백 서비스 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> | <a href="https://github.com/depromeet/16th-team1-FE">GitHub</a> |
-| Presen 🎙️ | 발표 대본을 실시간으로 녹음하며 AI 기반 평가를 받는 서비스 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> | <a href="https://github.com/DDD-Community/DDD-10-KKEUNKKEUN-WEB">GitHub</a> |
-| TOJ(Type-challenge Online Judge) 🎓       | 깃허브 타입 챌린지 실시간 온라인 채점 서비스 |  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  |  <a href="https://github.com/minh0518/minh0518/edit/main/README.md">GitHub</a>  |
-| FIFA Pulse ⚽       | FC온라인 매치 분석 및 세부 통계 시각화 서비스                   |   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>        | <a href="https://github.com/minh0518/FIFAPulse">GitHub</a>  |
+- **DEPROMEET 16th** - Web Frontend Developer (2025.01 ~ 2025.04) <br />
 
 
 <br />
 
 ## Recent Posting
-
 
 - [[DPM] 디프만 16기 ‘CRITIX’ FE 팀이 겪은 문제들, 이렇게 개선했습니다.](https://medium.com/@dpm1piece/dpm-%EB%94%94%ED%94%84%EB%A7%8C-16%EA%B8%B0-critix-fe-%ED%8C%80%EC%9D%B4-%EA%B2%AA%EC%9D%80-%EB%AC%B8%EC%A0%9C%EB%93%A4-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EA%B0%9C%EC%84%A0%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-59fdfd008ab2)
 - [유저와 FE 팀원들을 위한 나만의 LCP 최적화](https://velog.io/@minh0518/%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80-%EA%B0%9C%EB%B0%9C-%ED%8C%80%EC%9B%90%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%82%98%EB%A7%8C%EC%9D%98-LCP-%EC%B5%9C%EC%A0%81%ED%99%94)
