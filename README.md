@@ -4,7 +4,7 @@
 <br >
 
 
-> "Never confined to surface-level skills, I pursue the **root node of knowledge tree**—the underlying fundamentals behind every decision. <br /> Along this journey, insights are organically connected and internalized, letting understanding branch and grow like the nodes of the tree"
+> "Never confined to surface-level skills, I pursue the **root node of knowledge tree**—the underlying fundamentals behind every decision.
 
 
 
