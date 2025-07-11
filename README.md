@@ -31,7 +31,7 @@
 - **Seokyeong University, Software Engineering** (2016.03 ~ 2023.02) <br />
   - COSMOS Lab Intern -  Developed a voice waveform analysis service (2022.01 ~ 2022.07) <br />
   
-- **TAVE 7th** - IT Project Club Member (2021.02~2022.01) <br />
+- **TAVE 7th** (2021.02~2022.01) <br />
      
 - **2023 Open Source Contribution Mentee** (2023.07 ~ 2023.09) <br />
 
