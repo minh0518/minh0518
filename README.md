@@ -22,7 +22,7 @@
 
 ## Career
 
-- [당근](https://about.daangn.com/) Frontend Intern - Local Business(C2C)
+- [당근](https://about.daangn.com/) Frontend Intern - Local Business(C2C) (25.09 ~ 25.12)
 
 <br />
 
