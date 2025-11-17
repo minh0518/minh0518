@@ -1,5 +1,6 @@
 <a href="mailto:sunrise9612@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>  &nbsp; 
  <a href="https://velog.io/@minh0518/series/deepdive" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%ED%98%B8-%EC%A1%B0-000475268/)
 
 <br >
 
