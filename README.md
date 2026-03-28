@@ -23,7 +23,8 @@
 
 ## Career
 
-- [당근](https://about.daangn.com/) Frontend Intern - Local Business(C2C) (25.06 ~ 25.12)
+- [라포랩스](https://rapportlabs.kr/) Frontend Engineer (26.01 ~ )
+- [당근](https://about.daangn.com/) Frontend Engineer Intern (25.06 ~ 25.12)
 
 <br />
 
