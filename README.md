@@ -41,6 +41,18 @@
 
 - **DEPROMEET 16th** - Web Frontend Developer (2025.01 ~ 2025.04) <br />
 
+<br />
+<br />
+
+
+
+## etc
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minh0518)](https://solved.ac/minh0518)
+
+
+
+<!--
 
 <br />
 
@@ -52,13 +64,8 @@
 - [토큰을 JS 인메모리에 저장하면 도대체 뭐가 좋은걸까?](https://velog.io/@minh0518/%EB%8F%84%EB%8C%80%EC%B2%B4-%ED%86%A0%ED%81%B0%EC%9D%84-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%96%B4%EB%94%94%EC%97%90-%EB%B3%B4%EA%B4%80%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 - [JS로 우선순위 큐까지 구현하기 귀찮다면? - .sort() 메모리 최적화](https://velog.io/@minh0518/JS%EB%A1%9C-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90%EA%B9%8C%EC%A7%80-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-%EA%B7%80%EC%B0%AE%EB%8B%A4)
 - [Typescript의 꽃, 구조적 타이핑](https://velog.io/@minh0518/Typescript%EC%9D%98-%EA%BD%83-%EA%B5%AC%EC%A1%B0%EC%A0%81-%ED%83%80%EC%9D%B4%ED%95%91)
+--!>
 
-<br />
-<br />
-
-## etc
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minh0518)](https://solved.ac/minh0518)
 
 <br />
 <br />
